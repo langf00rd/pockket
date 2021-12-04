@@ -1,2 +1,2 @@
 ## pockket
-## money management 📊 / budget tracker 💰
+## money management 💰 / budget tracker 📊
